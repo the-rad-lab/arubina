@@ -1,7 +1,7 @@
 # arubina
 This repository contains instructions for recreating the open-source arubina performance.  The piece lasts 15-20 minutes and has three sections.
 
-## Prereqs.
+## Prerequisites 
 * You have a long rope, wireless headphones, and a laptop running MATLAB.  // Python support coming soon!
 * You have three performers.
 * You have added the music tracks to a playlist that can be played over the wireless headphones (we typically do this with each performer's own cell phone) or a loud speaker (laptop speakers or theater sound system).  Create a playlist with repeated elements of each track, e.g., 5 repeats of each sound track and 8 repeats of each silent track, tweaking this ratio changes the mixture of movement, stillness, and repetition of the piece.
@@ -17,7 +17,7 @@ _three performers, wearing earbuds, stand inside rope; with playlist on shuffle,
 
 ![Section II](/images/act_2.jpg)
 	
-_the computer is on a stand, rope is crumpled in center of space; performers form a triangle, one at the computer; each performer takes turns running XXX.m and reading the resultant phrase outloud to the other two, who respond improvisationaly_
+_the computer is on a stand, rope is crumpled in center of space; performers form a triangle, one at the computer; each performer takes turns running arubina.m and reading the resultant phrase outloud to the other two, who respond improvisationaly_
 
 * Section III
 
@@ -61,7 +61,7 @@ _three performers stand inside rope, holding tension; soundtrack is outloud; per
 
 ![listen](/images/listen.jpg)
 
-`listen.mp3` // "listen up" // make sound related to not being able to hear, eg “What?” “Huh?”
+`listen.mp3` // "listen up" // make sound related to not being able to hear, e.g., “What?” “Huh?”
 
 ![mouth](/images/mouth.jpg)
 
@@ -75,7 +75,7 @@ _three performers stand inside rope, holding tension; soundtrack is outloud; per
 
 `smell.mp3` // "smells like trouble" // frontal and square, second position deep plie, holding the rope in the right arm and grab the rope from underneath with the elbow strongly contacting the rope
 
-![tounge](/images/tounge.jpg)
+![tongue](/images/tongue.jpg)
 
 `tongue.mp3` // "on the tip of my tongue" // snap the rope
 
