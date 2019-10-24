@@ -1,4 +1,4 @@
-## ARUBINA
+# arubina
 This repository contains instructions for recreating the open-source arubina performance.  The piece lasts 15-20 minutes and has three sections.
 
 ## Prereqs.
@@ -25,7 +25,7 @@ _the computer is on a stand, rope is crumpled in center of space; performers for
 
 _three performers stand inside rope, holding tension; soundtrack is outloud; performers repsond to soundtrack with taxonomy_
 
-## Music // Body-based Phrases // Movement Taxonomy/Instructions // Example
+## Music // Body-based Phrases // Movement Taxonomy/Instructions
 
 ![back](/images/back.jpg)
 
@@ -75,7 +75,7 @@ _three performers stand inside rope, holding tension; soundtrack is outloud; per
 
 `smell.mp3` // "smells like trouble" // frontal and square, second position deep plie, holding the rope in the right arm and grab the rope from underneath with the elbow strongly contacting the rope
 
-![smell](/images/smell.jpg)
+![tounge](/images/tounge.jpg)
 
 `tongue.mp3` // "on the tip of my tongue" // snap the rope
 
