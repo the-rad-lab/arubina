@@ -10,23 +10,20 @@ This repository contains instructions for recreating the open-source arubina per
 * Section I
 
 ![Section I](/images/act_1.jpg)
-	_three performers, wearing earbuds, stand inside rope
-	with playlist on shuffle, each performer has their own randomized soundtrack
-	each performer performs taxonomy, pausing during the silence
-	on "get out of your head" performer dives between other two, other two need to reshuffle to hold the space_
+	
+_three performers, wearing earbuds, stand inside rope; with playlist on shuffle, each performer has their own randomized soundtrack; each performer performs taxonomy, pausing during the silence; on "get out of your head" performer dives between other two, other two need to reshuffle to hold the space_
+
 * Section II
 
 ![Section II](/images/act_2.jpg)
-	_the computer is on a stand, rope is crumpled in center of space
-	performers form a triangle, one at the computer
-	each performer takes turns running XXX.m and reading the resultant phrase outloud to the other two, who respond improvisationaly_
+	
+_the computer is on a stand, rope is crumpled in center of space; performers form a triangle, one at the computer; each performer takes turns running XXX.m and reading the resultant phrase outloud to the other two, who respond improvisationaly_
 
 * Section III
 
 ![Section III](/images/act_3.jpg)
-	_three performers stand inside rope, holding tension
-	soundtrack is outloud 
-	performers repsond to soundtrack with taxonomy_
+
+_three performers stand inside rope, holding tension; soundtrack is outloud; performers repsond to soundtrack with taxonomy_
 
 ## Music // Body-based Phrases // Movement Taxonomy/Instructions // Example
 
